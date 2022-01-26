@@ -3,8 +3,8 @@
 ## 🗣️ About me
  - IT Suport Techinigian in Sunset 💻
  - [Studing](https://www.educacionyfp.gob.es/en/dam/jcr:03c5641e-7593-4775-8392-86ef8b9b21d0/prd-ce-ciberseguridad-tic.pdf) Cybersecurity Course in the Information Technology Environment
- -  [Studies](https://www.boe.es/boe/dias/2010/07/26/pdfs/BOE-A-2010-11888.pdf) Higher Level Education Cycle on Cross-platform Application Development 👨🏻‍💻 🎓
- - [Studies](https://www.boe.es/eli/es/rd/2020/04/07/479/dof/spa/pdf) Medium Level Education Cycle on Microcomputer systems and networks <img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>🎓 
+ -  [Studies: ](https://www.boe.es/boe/dias/2010/07/26/pdfs/BOE-A-2010-11888.pdf) Higher Level Education Cycle on Cross-platform Application Development 👨🏻‍💻 🎓
+ - [Studies: ](https://www.boe.es/eli/es/rd/2020/04/07/479/dof/spa/pdf) Medium Level Education Cycle on Microcomputer systems and networks <img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>🎓 
 
 ## 🚀 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying cibersecurity, i discvovered this 🌏 and its awsome!!
