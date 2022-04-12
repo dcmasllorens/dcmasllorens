@@ -16,6 +16,8 @@
 
 ## 🧠 I have knowledge in 
   - Java  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="30em" align="center"/>
+  - NodeJS, ExpressJS <img src="https://img.icons8.com/fluency/344/node-js.png" height="30em" align="center"/>
+  - JWT 
   - SQL 
   - Microsoft SQL Server 
   - JBoss  
