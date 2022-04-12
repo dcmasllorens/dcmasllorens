@@ -24,7 +24,7 @@
   - Wildfly
   - HTML && CSS  
   - Networking  
-  - Docker, Docker-compose <img src="https://icons8.com/icon/22813/docker" height="30em" align="center"/>
+  - Docker, Docker-compose <img src="https://img.icons8.com/color/344/docker.png" height="30em" align="center"/>
   - Linux  <img src="https://cdn.emojidex.com/emoji/seal/Tux.png?1417449864" height="30em" align="center"/>
   - Devops <img src=" https://daniccardenas.com/wp-content/uploads/2017/08/devops-process-1024x527.png" height="30em" align="center"/>
 
