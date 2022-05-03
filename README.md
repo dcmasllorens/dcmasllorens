@@ -20,7 +20,8 @@
   - JWT 
   - SQL 
   - Microsoft SQL Server 
-  - JBoss  
+  - JBoss
+  - AWS (S3,Lambda,DynamoDB)  <img src=https://www.vhv.rs/dpng/d/437-4375878_amazon-web-services-to-open-data-centers-in.png"  height="30em" align="center"/>
   - Wildfly
   - HTML && CSS  
   - Networking  
